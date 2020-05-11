@@ -3,8 +3,8 @@ version: '3'
 services:
   app:
     entrypoint: [bin/start]
-    image: cheyney/greenlight:release-v2
-    container_name: greenlight-v2
+    image: cheyney/greenlight:release-v2-ome
+    container_name: greenlight-v2-ome
     env_file: .env
     restart: unless-stopped
     ports:
