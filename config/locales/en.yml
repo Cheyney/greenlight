@@ -276,7 +276,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a an easy place to learn."
+    about: "%{href} is an easy place to learn."
     welcome: Welcome to OME Learn
     video: Watch our tutorial
     upgrade: Show me how to upgrade to 2.0!
